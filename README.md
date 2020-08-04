@@ -4,7 +4,7 @@
 
 Practice to nomadcoder clone project
 
-- demo : 
+- demo : https://jhseo-git.github.io/scss-rodicadavisdon/
 - target : [https://rodicdavidson.co.uk/](https://rodicdavidson.co.uk/)
 
 ## To Clone:
