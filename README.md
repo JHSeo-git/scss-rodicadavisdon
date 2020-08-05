@@ -7,7 +7,7 @@ Practice to nomadcoder clone project
 - demo : https://jhseo-git.github.io/scss-rodicadavisdon/
 - target : [https://rodicdavidson.co.uk/](https://rodicdavidson.co.uk/)
 
-## To Clone:
+## To Clone: 
 
 - [ ] [https://besthorrorscenes.com/](https://besthorrorscenes.com/)
 - [ ] [https://paint-box.com/](https://paint-box.com/)
